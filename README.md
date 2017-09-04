@@ -9,7 +9,7 @@ Matlab code to compute volume and centroid of intersection polytopes for sparse 
 [General Information]
 
     This software was tested on MATLAB Version R2016a under Win7 64bit
-    the functions 'lcon2vert.m', 'qlcon2vert.m' and 'vert2lcon.m' are Copyright (c) 2015, Matt Jacobson All rights reserved     (see license_mj.txt).
+    the functions 'lcon2vert.m', 'qlcon2vert.m' and 'vert2lcon.m' are Copyright (c) 2015, Matt Jacobson All rights reserved (see license_mj.txt).
     the function qhullmx must be copied to the working directory from matlabroot\toolbox\matlab\polyfun\private
     MATLAB (R) is a registered trademark of The MathWorks, Inc.
     Last updated: 31.08.2017
