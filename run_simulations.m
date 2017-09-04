@@ -5,8 +5,12 @@ clear
 
 %% set problem parameters
 Ni = 1e2;
-N = 9;
-M = 3;
+N = 8;
+M = 6;
+
+if N>8 
+    disp('warning: numerical stability not guaranteed')
+end
 
 %% load input examples
 x = abs( gen_vec(N,1,Ni,0) );
