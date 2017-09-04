@@ -9,9 +9,10 @@ Matlab code to compute volume and centroid of intersection polytopes for sparse 
 [General Information]
 
     This software was tested on MATLAB Version R2016a under Win7 64bit
-    the functions 'lcon2vert.m', 'qlcon2vert.m' and 'vert2lcon.m' are Copyright (c) 2015, Matt Jacobson All rights reserved (see license_mj.txt).
-    the function 'gamrnd_m' and 'gen_vec.m' are from the Randomized Algorithms Control Toolbox (RACT), all credit goes to the original authors
-    the function qhullmx must be copied to the working directory from matlabroot\toolbox\matlab\polyfun\private
+    Integration by simplicial decomposition is build based on the following functions:
+    -the functions 'lcon2vert.m', 'qlcon2vert.m' and 'vert2lcon.m' are Copyright (c) 2015, Matt Jacobson All rights reserved (see license_mj.txt).
+    -the function 'gamrnd_m' and 'gen_vec.m' are from the Randomized Algorithms Control Toolbox (RACT), all credit goes to the original authors
+    -the function qhullmx comes with Matlab and must be copied to the working directory from matlabroot\toolbox\matlab\polyfun\private
     MATLAB (R) is a registered trademark of The MathWorks, Inc.
     Last updated: 31.08.2017
 
