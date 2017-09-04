@@ -1,7 +1,7 @@
 # CentNet
 Author: Steffen Limmer steffen.limmer@tu-berlin.de
 
-Matlab code to compute volume and centroid of intersection polytopes for sparse recovery of simplex valued signals. The code was used to simulate the proposed Laplace transform techniques. Note: numerical instabilities may occur for larger input dimensions.
+Matlab code to compute volume and centroid of intersection polytopes for sparse recovery of simplex valued signals. The code was used to simulate the proposed Laplace transform techniques. Please cite the paper below whenever you use this code. Note: numerical instabilities may occur for larger input dimensions.
 
 @article{LiSt17, author = {Limmer, S. and Stanczak, S.}, title = {Optimal deep neural networks for sparse recovery via Laplace techniques}, year = {2017}, journal={arXiv preprint}
 }
