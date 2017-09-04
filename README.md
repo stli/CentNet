@@ -15,4 +15,4 @@ Matlab code to compute volume and centroid of intersection polytopes for sparse 
     MATLAB (R) is a registered trademark of The MathWorks, Inc.
     Last updated: 31.08.2017
 
-[Disclaimer] The code is provided "as is", without warranty of any kind. In no event shall the authors or copyright holders be liable for any claim, damages or other liability. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+[Disclaimer] The code is provided "as is", without warranty of any kind. In no event shall the authors or copyright holders be liable for any claim, damages or other liability. You can redistribute it (except for 'lcon2vert.m', 'qlcon2vert.m', 'vert2lcon.m', 'gamrnd_m', 'gen_vec.m', qhullmx) and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
